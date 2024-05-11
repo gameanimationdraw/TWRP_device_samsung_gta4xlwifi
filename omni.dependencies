@@ -1,0 +1,8 @@
+[
+  {
+    "remote": "github",
+    "repository": "gameanimationdraw/TWRP_device_samsung_gta4xlwifi",
+    "revision": "main",
+    "target_path": "device/samsung/gta4xlwifi"
+  }
+]
